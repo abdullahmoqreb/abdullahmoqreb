@@ -2,7 +2,7 @@
 My Name is abdullah moqreb  
 
 #### I am a Next JS Developer & Front End Developer.
-![I am a Web Developer & Front End Developer.](https://pbs.twimg.com/profile_banners/934472838/1623158188/600x200)
+![I am a Web Developer & Front End Developer.] 
 
 I’m a hard working and dedicated professional front-end developer/user interface designer with a keen eye for detail, and a determination to deliver the very highest quality. I take great pride in my work, and I always try to better myself with every project I work on.
 
